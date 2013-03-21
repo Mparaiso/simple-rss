@@ -7,6 +7,7 @@ use Mparaiso\Rss\Builder\IBuilder;
 
 /**
 * @author M.Paraiso
+ * Generate a rss feed from an array of datas
  */
 class SimpleRss
 {
