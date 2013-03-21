@@ -72,7 +72,7 @@ class SimpleRssTest extends \PHPUnit_Framework_TestCase
     public function testSetChannel()
     {
         $this->object->setChannel(array("blop"));
-        $channel=$this->object->getChannel()[0] ;
+        $channel=$this->object->getChannel() ;
         $this->assertTrue($channel[0] == "blop");
     }
 
