@@ -5,6 +5,9 @@ namespace Mparaiso\Rss;
 use Mparaiso\Rss\Builder\TwigBuilder;use Mparaiso\Rss\Adapter\IItemAdapter;
 use Mparaiso\Rss\Builder\IBuilder;
 
+/**
+* @author M.Paraiso
+ */
 class SimpleRss
 {
     /**
