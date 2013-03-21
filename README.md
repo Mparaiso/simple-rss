@@ -1,6 +1,8 @@
 RSS
 ===
 
+[![Build Status](https://travis-ci.org/Mparaiso/simple-rss.png)](https://travis-ci.org/Mparaiso/simple-rss)
+
 A rss feed generator
 
 author : M.Paraiso

@@ -1,3 +1,2 @@
-composer.lock
 vendor/*
-Mparaiso/Rss/Builder/cache/*
+scr/Mparaiso/Rss/Builder/cache/*
