@@ -1,0 +1,27 @@
+{
+    "name": "mparaiso/simple-rss",
+    "description": "A simple class to generate RSS feeds",
+    "keywords": [
+        "rss",
+        "feed",
+        "social"
+    ],
+    "homepage": "https://github.com/Mparaiso/simple-rss",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MParaiso",
+            "email": "mparaiso@online.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "twig/twig": "*"
+    },
+    "suggest": {},
+    "autoload": {
+        "psr-0": {
+            "Mparaiso": "src/"
+        }
+    }
+}
