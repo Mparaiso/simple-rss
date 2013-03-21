@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>My rss channel</title>
+        <link>http://alink</link>
+        <description>the description</description>
+        <lang>en-en</lang>
+        <copyright>mparaiso</copyright>
+        <webMaster>mparaiso@yahoo.php</webMaster>
+        <image>
+            <title>the image</title>
+            <url>imageurl</url>
+            <link>http://imagelink</link>
+            <width>500</width>
+            <height>500</height>
+        </image>
+        <item>
+            <title>item title</title>
+            <description>item description</description>
+            <guid isPermalink='1'>the guid</guid>
+            <pubDate>Thu, 21 Mar 2013 15:49:22</pubDate>
+        </item>
+    </channel>
+</rss>

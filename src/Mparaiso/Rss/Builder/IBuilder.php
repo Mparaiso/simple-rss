@@ -1,6 +1,6 @@
 <?php
 
-namespace Mparaiso\Builder;
+namespace Mparaiso\Rss\Builder;
 
 
 /**

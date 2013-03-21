@@ -1,9 +1,9 @@
 <?php
 
-namespace Mparaiso;
+namespace Mparaiso\Rss;
 
-use Mparaiso\Builder\TwigBuilder;
-use Mparaiso\Builder\IBuilder;
+use Mparaiso\Rss\Builder\TwigBuilder;use Mparaiso\Rss\Adapter\IItemAdapter;
+use Mparaiso\Rss\Builder\IBuilder;
 
 class SimpleRss
 {
@@ -58,6 +58,16 @@ class SimpleRss
             $items = $this->channel["items"];
         }
         return $this->builder->build($this->channel,$items);
+    }
+
+    public function getItemAdapter()
+    {
+        return $this->itemAdapter;
+    }
+
+    public function setItemAdapter(IItemAdapter $itemAdapter)
+    {
+        $this->itemAdapter = $itemAdapter;
     }
 
 

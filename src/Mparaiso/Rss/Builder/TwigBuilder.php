@@ -1,6 +1,6 @@
 <?php
 
-namespace Mparaiso\Builder;
+namespace Mparaiso\Rss\Builder;
 
 use Twig_Environment;use Mparaiso\Channel;
 use Twig_Loader_Filesystem;
