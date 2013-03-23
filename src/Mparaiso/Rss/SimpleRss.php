@@ -89,7 +89,7 @@ class SimpleRss
         return $this->channelAdapter;
     }
 
-    public function setItemAdapter(IChannelAdapter $channelAdapter)
+    public function setChannelAdapter(IChannelAdapter $channelAdapter)
     {
         $this->channelAdapter = $channelAdapter;
     }
