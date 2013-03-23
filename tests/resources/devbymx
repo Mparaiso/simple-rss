@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Dev by MX</title>
+	
+	<link>http://dev.webbymx.net</link>
+	<description>You love development? Welcome!!</description>
+	<lastBuildDate>Sun, 27 Jan 2013 09:59:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/devbymx" /><feedburner:info uri="devbymx" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><creativeCommons:license>http://creativecommons.org/licenses/by-sa/2.0/</creativeCommons:license><image><link>http://creativecommons.org/licenses/by-sa/2.0/</link><url>http://creativecommons.org/images/public/somerights20.gif</url><title>Some Rights Reserved</title></image><feedburner:emailServiceId>devbymx</feedburner:emailServiceId><feedburner:feedburnerHostname>http://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>Microsoft – You still suck!!!</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/gZCwE1E1BVg/</link>
+		<comments>http://dev.webbymx.net/2013/01/27/microsoft-you-still-suck/#comments</comments>
+		<pubDate>Sun, 27 Jan 2013 09:54:20 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=451</guid>
+		<description>So, I used to use Windows, but for the past 2 years and so I have been now under Linux. On my desktop computer (home use, used by other people than me) I&amp;#8217;ve decided to install windows 8. So I&amp;#8217;ve...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gZCwE1E1BVg:yM9CvvNlo6c:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gZCwE1E1BVg:yM9CvvNlo6c:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gZCwE1E1BVg:yM9CvvNlo6c:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gZCwE1E1BVg:yM9CvvNlo6c:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gZCwE1E1BVg:yM9CvvNlo6c:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/gZCwE1E1BVg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2013/01/27/microsoft-you-still-suck/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2013/01/27/microsoft-you-still-suck/</feedburner:origLink></item>
+		<item>
+		<title>AngularJS – i18n</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/q_AKke0wE38/</link>
+		<comments>http://dev.webbymx.net/2013/01/25/angularjs-i18n/#comments</comments>
+		<pubDate>Thu, 24 Jan 2013 23:05:08 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[AngularJS]]></category>
+		<category><![CDATA[angularJS]]></category>
+		<category><![CDATA[i18n]]></category>
+		<category><![CDATA[internationalization]]></category>
+		<category><![CDATA[localization]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=446</guid>
+		<description>Working on my last project with AngularJS (started using EmberJS and dropped it in favor of Angular) I had the need of internationalization and localization. I checked around and found some resources, which I simply merged together to come up...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=q_AKke0wE38:Rt3QjAy0HpY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=q_AKke0wE38:Rt3QjAy0HpY:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=q_AKke0wE38:Rt3QjAy0HpY:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=q_AKke0wE38:Rt3QjAy0HpY:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=q_AKke0wE38:Rt3QjAy0HpY:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/q_AKke0wE38" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2013/01/25/angularjs-i18n/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2013/01/25/angularjs-i18n/</feedburner:origLink></item>
+		<item>
+		<title>Linux, Haxe, NME and IntelliJ</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/23s76rWYE68/</link>
+		<comments>http://dev.webbymx.net/2012/12/07/linux-haxe-nme-and-intellij/#comments</comments>
+		<pubDate>Thu, 06 Dec 2012 11:05:37 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Haxe]]></category>
+		<category><![CDATA[haxe]]></category>
+		<category><![CDATA[intelliJ]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[nme]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=422</guid>
+		<description>So, I know the existence of Haxe for a looooong time now but I never had the chance / time to play with it. Tonight, this has changed&amp;#8230; This post will walk you through installing/setting up Haxe, NME and IntelliJ...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=23s76rWYE68:QdL-HtyIlH4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=23s76rWYE68:QdL-HtyIlH4:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=23s76rWYE68:QdL-HtyIlH4:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=23s76rWYE68:QdL-HtyIlH4:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=23s76rWYE68:QdL-HtyIlH4:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/23s76rWYE68" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/12/07/linux-haxe-nme-and-intellij/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/12/07/linux-haxe-nme-and-intellij/</feedburner:origLink></item>
+		<item>
+		<title>Mysql SSH tunneling and PhpMyAdmin on Debian</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/hg8Lzx7sDqI/</link>
+		<comments>http://dev.webbymx.net/2012/10/23/mysql-ssh-tunneling-and-phpmyadmin-on-debian/#comments</comments>
+		<pubDate>Tue, 23 Oct 2012 09:50:44 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[phpmyadmin]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[tunnel]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=403</guid>
+		<description>It took me again some times to have this set up. First you need obviously to have apache2 php and phpmyadmin installed on your box. Once done, here are the things to do. Configure phpmyadmin to use the tcp connection,...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=hg8Lzx7sDqI:3A-XR1sj4V0:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=hg8Lzx7sDqI:3A-XR1sj4V0:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=hg8Lzx7sDqI:3A-XR1sj4V0:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=hg8Lzx7sDqI:3A-XR1sj4V0:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=hg8Lzx7sDqI:3A-XR1sj4V0:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/hg8Lzx7sDqI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/10/23/mysql-ssh-tunneling-and-phpmyadmin-on-debian/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/10/23/mysql-ssh-tunneling-and-phpmyadmin-on-debian/</feedburner:origLink></item>
+		<item>
+		<title>IntelliJ IDEA – How to pass JVM argument when executing ant</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/AxHCBpJufk8/</link>
+		<comments>http://dev.webbymx.net/2012/08/09/intellij-idea-how-to-pass-jvm-argument-when-executing-ant/#comments</comments>
+		<pubDate>Thu, 09 Aug 2012 06:23:09 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[intelliJ]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=398</guid>
+		<description>It took me a good hour to find this out. In your Ant panel, select the build you want to modify and click on properties (the icon with checkboxes). Go in the excution tab, Ant command line input. This is...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AxHCBpJufk8:M3WWNAE0KkE:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AxHCBpJufk8:M3WWNAE0KkE:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AxHCBpJufk8:M3WWNAE0KkE:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AxHCBpJufk8:M3WWNAE0KkE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AxHCBpJufk8:M3WWNAE0KkE:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/AxHCBpJufk8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/08/09/intellij-idea-how-to-pass-jvm-argument-when-executing-ant/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/08/09/intellij-idea-how-to-pass-jvm-argument-when-executing-ant/</feedburner:origLink></item>
+		<item>
+		<title>OAuth – xAuth AS3 library</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/WV2a2WBPvhE/</link>
+		<comments>http://dev.webbymx.net/2012/07/31/oauth-xauth-as3-library/#comments</comments>
+		<pubDate>Tue, 31 Jul 2012 04:16:51 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Actionscript 3.0]]></category>
+		<category><![CDATA[AS3]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[xauth]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=386</guid>
+		<description>So I have done the PHP one and am working on the JAVA one. And I needed an AS3 implementation also. I have again checked the library out there and didn&amp;#8217;t like how they were structured. I want to have...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=WV2a2WBPvhE:pyW0tbo62wE:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=WV2a2WBPvhE:pyW0tbo62wE:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=WV2a2WBPvhE:pyW0tbo62wE:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=WV2a2WBPvhE:pyW0tbo62wE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=WV2a2WBPvhE:pyW0tbo62wE:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/WV2a2WBPvhE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/07/31/oauth-xauth-as3-library/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/07/31/oauth-xauth-as3-library/</feedburner:origLink></item>
+		<item>
+		<title>OAuth – xAuth PHP client and server library</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/44cE-Ax1Y34/</link>
+		<comments>http://dev.webbymx.net/2012/07/01/oauth-xauth-php-client-and-server-library/#comments</comments>
+		<pubDate>Sat, 30 Jun 2012 13:41:36 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Php]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[xauth]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=324</guid>
+		<description>Hello, Lately I was in the need to create a OAuth provider and started looking for php (open source) libraries. The first one I have tried was the de facto one, i.e the PECL library. I liked it a lot,...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=44cE-Ax1Y34:KlQc-YV_pd0:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=44cE-Ax1Y34:KlQc-YV_pd0:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=44cE-Ax1Y34:KlQc-YV_pd0:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=44cE-Ax1Y34:KlQc-YV_pd0:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=44cE-Ax1Y34:KlQc-YV_pd0:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/44cE-Ax1Y34" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/07/01/oauth-xauth-php-client-and-server-library/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/07/01/oauth-xauth-php-client-and-server-library/</feedburner:origLink></item>
+		<item>
+		<title>Installing MySQL Workbench on LMDE 13</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/Z-Z85FpdYRM/</link>
+		<comments>http://dev.webbymx.net/2012/06/12/installing-mysql-workbench-on-lmde-13/#comments</comments>
+		<pubDate>Mon, 11 Jun 2012 11:54:25 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[libzip1]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[lmde]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[workbench]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=320</guid>
+		<description>So, MySQL workbench is a great tool, but not yet in the debian repo. I have check online to find some resources and there were barely any on how to install it on LMDE 13&amp;#8230; so here it is. First...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=Z-Z85FpdYRM:F6PYK-ChPvg:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=Z-Z85FpdYRM:F6PYK-ChPvg:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=Z-Z85FpdYRM:F6PYK-ChPvg:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=Z-Z85FpdYRM:F6PYK-ChPvg:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=Z-Z85FpdYRM:F6PYK-ChPvg:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/Z-Z85FpdYRM" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/06/12/installing-mysql-workbench-on-lmde-13/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/06/12/installing-mysql-workbench-on-lmde-13/</feedburner:origLink></item>
+		<item>
+		<title>Android – Restlet or how to have your client working and how to send params in a post request</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/6X8FNAoYlqo/</link>
+		<comments>http://dev.webbymx.net/2012/04/20/android-restlet-or-how-to-have-your-client-working-and-how-to-send-params-in-a-post-request/#comments</comments>
+		<pubDate>Fri, 20 Apr 2012 10:13:11 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[restlet]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=305</guid>
+		<description>When you are reading the title, well it seems to be a really easy task to be able to do a POST request with some parameters sent along&amp;#8230; Well it is easy, but man it took me long to actually...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=6X8FNAoYlqo:dGbsy5LOu1U:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=6X8FNAoYlqo:dGbsy5LOu1U:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=6X8FNAoYlqo:dGbsy5LOu1U:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=6X8FNAoYlqo:dGbsy5LOu1U:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=6X8FNAoYlqo:dGbsy5LOu1U:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/6X8FNAoYlqo" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/04/20/android-restlet-or-how-to-have-your-client-working-and-how-to-send-params-in-a-post-request/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/04/20/android-restlet-or-how-to-have-your-client-working-and-how-to-send-params-in-a-post-request/</feedburner:origLink></item>
+		<item>
+		<title>Android emulator – proxy and custom domain</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/30EpumwZPSQ/</link>
+		<comments>http://dev.webbymx.net/2012/04/19/android-emulator-proxy-and-custom-domain/#comments</comments>
+		<pubDate>Thu, 19 Apr 2012 10:41:27 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Android]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=301</guid>
+		<description>So, I wanted to be able to use a proxy while developing my android app. Also I am using a custom domain set in my hosts files. Here I am using Charles, but any should do really. So in the...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=30EpumwZPSQ:85e-XyZUHo0:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=30EpumwZPSQ:85e-XyZUHo0:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=30EpumwZPSQ:85e-XyZUHo0:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=30EpumwZPSQ:85e-XyZUHo0:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=30EpumwZPSQ:85e-XyZUHo0:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/30EpumwZPSQ" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/04/19/android-emulator-proxy-and-custom-domain/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/04/19/android-emulator-proxy-and-custom-domain/</feedburner:origLink></item>
+		<item>
+		<title>Android development – Remote calls the proper way.</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/IyctKNn6jCQ/</link>
+		<comments>http://dev.webbymx.net/2012/03/08/android-development-remote-calls-the-proper-way/#comments</comments>
+		<pubDate>Thu, 08 Mar 2012 03:01:35 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Android]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=288</guid>
+		<description>Hello, I have started developing an android app and was looking for the best way to handle remote calls (as activities can be killed, &amp;#8230; ) and found this really nice talk Google IO &amp;#8211; Developing Android RESTFull apps This...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=IyctKNn6jCQ:UWCR-FNetVg:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=IyctKNn6jCQ:UWCR-FNetVg:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=IyctKNn6jCQ:UWCR-FNetVg:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=IyctKNn6jCQ:UWCR-FNetVg:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=IyctKNn6jCQ:UWCR-FNetVg:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/IyctKNn6jCQ" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2012/03/08/android-development-remote-calls-the-proper-way/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2012/03/08/android-development-remote-calls-the-proper-way/</feedburner:origLink></item>
+		<item>
+		<title>Installing USVN and migrating from old subversion server</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/zfsHaPmN6xg/</link>
+		<comments>http://dev.webbymx.net/2011/10/04/installing-usvn-and-migrating-from-old-subversion-server/#comments</comments>
+		<pubDate>Tue, 04 Oct 2011 10:18:13 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=279</guid>
+		<description>So lately we changed server and although I&amp;#8217;m using now Indefero (integrated git) to manage my projects I was in need of having subversion for all my old projects. I used to use svnmanager on our old server but wanted...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=zfsHaPmN6xg:0drom0_M8U4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=zfsHaPmN6xg:0drom0_M8U4:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=zfsHaPmN6xg:0drom0_M8U4:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=zfsHaPmN6xg:0drom0_M8U4:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=zfsHaPmN6xg:0drom0_M8U4:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/zfsHaPmN6xg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2011/10/04/installing-usvn-and-migrating-from-old-subversion-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2011/10/04/installing-usvn-and-migrating-from-old-subversion-server/</feedburner:origLink></item>
+		<item>
+		<title>Create Android application interface with some nice tools</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/p-i_mOWbyqE/</link>
+		<comments>http://dev.webbymx.net/2011/05/10/create-android-application-interface-with-some-nice-tools/#comments</comments>
+		<pubDate>Tue, 10 May 2011 10:15:01 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Android]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=272</guid>
+		<description>I just came across a google code project android-ui-utils aiming at helping designer/developer to design their android application. There is 2 seperate application: Pencil for firefox, an already well know existing application. They have created the toolset for this app...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=p-i_mOWbyqE:6_gBjp9c4K4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=p-i_mOWbyqE:6_gBjp9c4K4:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=p-i_mOWbyqE:6_gBjp9c4K4:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=p-i_mOWbyqE:6_gBjp9c4K4:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=p-i_mOWbyqE:6_gBjp9c4K4:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/p-i_mOWbyqE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2011/05/10/create-android-application-interface-with-some-nice-tools/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2011/05/10/create-android-application-interface-with-some-nice-tools/</feedburner:origLink></item>
+		<item>
+		<title>ZamfBrowser and subversion</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/gkbZP3O3dHc/</link>
+		<comments>http://dev.webbymx.net/2011/01/11/zamfbrowser-and-subversion/#comments</comments>
+		<pubDate>Tue, 11 Jan 2011 01:26:26 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Ressources]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[subversion]]></category>
+		<category><![CDATA[ZamfBrowser]]></category>
+		<category><![CDATA[ZendAmf]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=257</guid>
+		<description>Just a quick one for the people that use ZamfBrowser and for myself (as a reminder) I&amp;#8217;m playing with ZendAmf right now so I&amp;#8217;ve downloaded and installed ZamfBrowser, and got a really weird behavior. I was able to get my...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gkbZP3O3dHc:ShvN_yAoLl8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gkbZP3O3dHc:ShvN_yAoLl8:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gkbZP3O3dHc:ShvN_yAoLl8:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=gkbZP3O3dHc:ShvN_yAoLl8:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=gkbZP3O3dHc:ShvN_yAoLl8:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/gkbZP3O3dHc" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2011/01/11/zamfbrowser-and-subversion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2011/01/11/zamfbrowser-and-subversion/</feedburner:origLink></item>
+		<item>
+		<title>Flixel for Android</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/bpSRrrMlKok/</link>
+		<comments>http://dev.webbymx.net/2010/06/04/flixel-for-android/#comments</comments>
+		<pubDate>Thu, 03 Jun 2010 23:43:36 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[flixel]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=245</guid>
+		<description>Recently I came across this post. Flixel has been ported to Android, so games (well a specific kind of game) should be easy to develop You can get the source here and read the tutorial here&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=bpSRrrMlKok:KcMDxguwNQs:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=bpSRrrMlKok:KcMDxguwNQs:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=bpSRrrMlKok:KcMDxguwNQs:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=bpSRrrMlKok:KcMDxguwNQs:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=bpSRrrMlKok:KcMDxguwNQs:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/bpSRrrMlKok" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2010/06/04/flixel-for-android/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2010/06/04/flixel-for-android/</feedburner:origLink></item>
+		<item>
+		<title>webDU 2010 – Caleb Adam Haye – Continuous Integration</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/AiE_J--a1g0/</link>
+		<comments>http://dev.webbymx.net/2010/05/14/webdu-2010-caleb-adam-haye-continuous-integration/#comments</comments>
+		<pubDate>Fri, 14 May 2010 02:14:33 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[2010]]></category>
+		<category><![CDATA[Caleb Adam Haye]]></category>
+		<category><![CDATA[continuous integration]]></category>
+		<category><![CDATA[webdu]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=230</guid>
+		<description>Session Detail To be discussed will be the overall concept of continuous integration, detailing the overwhelming benefits (and challenges) of employing a continuous integration strategy into your Flash Platform development paradigm, which transcends the build process into a science, rather...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AiE_J--a1g0:pGeQVn9dzlA:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AiE_J--a1g0:pGeQVn9dzlA:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AiE_J--a1g0:pGeQVn9dzlA:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=AiE_J--a1g0:pGeQVn9dzlA:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=AiE_J--a1g0:pGeQVn9dzlA:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/AiE_J--a1g0" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2010/05/14/webdu-2010-caleb-adam-haye-continuous-integration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2010/05/14/webdu-2010-caleb-adam-haye-continuous-integration/</feedburner:origLink></item>
+		<item>
+		<title>CPLUV is using Sphinx</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/OzX4LF3Cxu8/</link>
+		<comments>http://dev.webbymx.net/2010/05/13/cpluv-is-using-sphinx/#comments</comments>
+		<pubDate>Thu, 13 May 2010 02:39:57 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Php]]></category>
+		<category><![CDATA[engine]]></category>
+		<category><![CDATA[lucene]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[sphinx]]></category>
+		<category><![CDATA[zend]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=227</guid>
+		<description>Cpluv has done the switch for its search engine from Zend Lucene to Sphinx. It is actually a breeze to implement and work with Sphinx once you got to know how everything&amp;#8217;s working When we choose the engine to be...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=OzX4LF3Cxu8:Fj5-xgE5ZKA:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=OzX4LF3Cxu8:Fj5-xgE5ZKA:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=OzX4LF3Cxu8:Fj5-xgE5ZKA:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=OzX4LF3Cxu8:Fj5-xgE5ZKA:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=OzX4LF3Cxu8:Fj5-xgE5ZKA:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/OzX4LF3Cxu8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2010/05/13/cpluv-is-using-sphinx/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2010/05/13/cpluv-is-using-sphinx/</feedburner:origLink></item>
+		<item>
+		<title>webDu 2010 – Mike Downey – Casual Gaming, what developers should know</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/svlzMN95NK4/</link>
+		<comments>http://dev.webbymx.net/2010/05/13/webdu-2010-mike-downey-casual-gaming-what-developers-should-know/#comments</comments>
+		<pubDate>Wed, 12 May 2010 23:40:08 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[casual game]]></category>
+		<category><![CDATA[webdu]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=219</guid>
+		<description>Another video of the webdu 2010 conference in Bondi Beach, Sydney. I&amp;#8217;m sorry the battery of my nexus one died during the session, so you have only the first 40 minutes :/ Session Detail In this session you will learn...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=svlzMN95NK4:DI3uxz_Hj7o:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=svlzMN95NK4:DI3uxz_Hj7o:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=svlzMN95NK4:DI3uxz_Hj7o:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=svlzMN95NK4:DI3uxz_Hj7o:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=svlzMN95NK4:DI3uxz_Hj7o:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/svlzMN95NK4" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2010/05/13/webdu-2010-mike-downey-casual-gaming-what-developers-should-know/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2010/05/13/webdu-2010-mike-downey-casual-gaming-what-developers-should-know/</feedburner:origLink></item>
+		<item>
+		<title>WebDU 2010 – Michael Plank – Component Architecturel</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/tiL5gfgOqCU/</link>
+		<comments>http://dev.webbymx.net/2010/05/11/webdu-2010-component-architecture/#comments</comments>
+		<pubDate>Tue, 11 May 2010 02:21:28 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[Actionscript 3.0]]></category>
+		<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[2010]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[AS3]]></category>
+		<category><![CDATA[component]]></category>
+		<category><![CDATA[Michael Plank]]></category>
+		<category><![CDATA[webdu]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=208</guid>
+		<description>Hello, I will be posting some videos of the webDU 2010 sessions. The first one is the component architecture done by Michael Plank Session Details Conventional game architectures enjoin you to use an inheritance based class hierarchy which often ends...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=tiL5gfgOqCU:jo-SDMBpx7w:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=tiL5gfgOqCU:jo-SDMBpx7w:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=tiL5gfgOqCU:jo-SDMBpx7w:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=tiL5gfgOqCU:jo-SDMBpx7w:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=tiL5gfgOqCU:jo-SDMBpx7w:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/tiL5gfgOqCU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2010/05/11/webdu-2010-component-architecture/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2010/05/11/webdu-2010-component-architecture/</feedburner:origLink></item>
+		<item>
+		<title>CPLUV is live</title>
+		<link>http://feedproxy.google.com/~r/devbymx/~3/XwwmNBkbrTQ/</link>
+		<comments>http://dev.webbymx.net/2009/12/03/cpluv-is-live/#comments</comments>
+		<pubDate>Thu, 03 Dec 2009 02:14:56 +0000</pubDate>
+		<dc:creator>zeflasher</dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Php]]></category>
+		<category><![CDATA[cpluv]]></category>
+		<category><![CDATA[zend]]></category>
+
+		<guid isPermaLink="false">http://dev.webbymx.net/?p=206</guid>
+		<description>Well after some crazy months of development through my company Shaperstudio Ltd I&amp;#8217;m glad to tell that the new cpluv website is live. It will probably need some tweaks here and there in the next couple of weeks but the...&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=XwwmNBkbrTQ:u13eSAXUUaU:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=XwwmNBkbrTQ:u13eSAXUUaU:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=XwwmNBkbrTQ:u13eSAXUUaU:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?i=XwwmNBkbrTQ:u13eSAXUUaU:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=dnMXMwOfBR0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:YwkR-u9nhCs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=YwkR-u9nhCs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/devbymx?a=XwwmNBkbrTQ:u13eSAXUUaU:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/devbymx?d=TzevzKxY174" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/devbymx/~4/XwwmNBkbrTQ" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://dev.webbymx.net/2009/12/03/cpluv-is-live/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://dev.webbymx.net/2009/12/03/cpluv-is-live/</feedburner:origLink></item>
+	</channel>
+</rss>

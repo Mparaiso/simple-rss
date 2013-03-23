@@ -4,7 +4,7 @@
         <title>{{ channel.title }}</title>
         <link>{{ channel.link }}</link>
         <description>{{ channel.description }}</description>
-        <lang>{{ channel.lang|default('en-en') }}</lang>
+        <language>{{ channel.lang|default('en-en') }}</language>
         <copyright>{{ channel.copyright|default('') }}</copyright>
         <webMaster>{{ channel.webmaster|default('') }}</webMaster>
         {% if channel.image is defined %}
@@ -20,8 +20,8 @@
             <item>
                 <title>{{ item.title }}</title>
                 <description>{{ item.description }}</description>
-                <guid isPermalink='{{ item.isPermalink|default(1) }}'>{{ item.guid }}</guid>
-                <pubDate>{{ item.pubDate|date("D, d M Y H:i:s") }}</pubDate>
+                <guid isPermaLink='{{ item.isPermalink|default("false") }}'>{{ item.guid }}</guid>
+                <pubDate>{{ item.pubDate|date("D, d M Y H:i:s T") }}</pubDate>
             </item>
         {% endfor %}
     </channel>

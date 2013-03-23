@@ -31,10 +31,10 @@ class __TwigTemplate_958c98937d88ef38ce718f1b6fde511b extends Twig_Template
         // line 6
         echo twig_escape_filter($this->env, $this->getAttribute((isset($context["channel"]) ? $context["channel"] : null), "description"), "html", null, true);
         echo "</description>
-        <lang>";
+        <language>";
         // line 7
         echo twig_escape_filter($this->env, (($this->getAttribute((isset($context["channel"]) ? $context["channel"] : null), "lang", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["channel"]) ? $context["channel"] : null), "lang"), "en-en")) : ("en-en")), "html", null, true);
-        echo "</lang>
+        echo "</language>
         <copyright>";
         // line 8
         echo twig_escape_filter($this->env, (($this->getAttribute((isset($context["channel"]) ? $context["channel"] : null), "copyright", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["channel"]) ? $context["channel"] : null), "copyright"), "")) : ("")), "html", null, true);
@@ -86,15 +86,15 @@ class __TwigTemplate_958c98937d88ef38ce718f1b6fde511b extends Twig_Template
             // line 22
             echo twig_escape_filter($this->env, $this->getAttribute((isset($context["item"]) ? $context["item"] : null), "description"), "html", null, true);
             echo "</description>
-                <guid isPermalink='";
+                <guid isPermaLink='";
             // line 23
-            echo twig_escape_filter($this->env, (($this->getAttribute((isset($context["item"]) ? $context["item"] : null), "isPermalink", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["item"]) ? $context["item"] : null), "isPermalink"), 1)) : (1)), "html", null, true);
+            echo twig_escape_filter($this->env, (($this->getAttribute((isset($context["item"]) ? $context["item"] : null), "isPermalink", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["item"]) ? $context["item"] : null), "isPermalink"), "false")) : ("false")), "html", null, true);
             echo "'>";
             echo twig_escape_filter($this->env, $this->getAttribute((isset($context["item"]) ? $context["item"] : null), "guid"), "html", null, true);
             echo "</guid>
                 <pubDate>";
             // line 24
-            echo twig_escape_filter($this->env, twig_date_format_filter($this->env, $this->getAttribute((isset($context["item"]) ? $context["item"] : null), "pubDate"), "D, d M Y H:i:s"), "html", null, true);
+            echo twig_escape_filter($this->env, twig_date_format_filter($this->env, $this->getAttribute((isset($context["item"]) ? $context["item"] : null), "pubDate"), "D, d M Y H:i:s T"), "html", null, true);
             echo "</pubDate>
             </item>
         ";

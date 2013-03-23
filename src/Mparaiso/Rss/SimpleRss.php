@@ -2,11 +2,14 @@
 
 namespace Mparaiso\Rss;
 
-use Mparaiso\Rss\Builder\TwigBuilder;use Mparaiso\Rss\Adapter\IItemAdapter;
+use Mparaiso\Rss\Builder\RssTwigBuilder;
+use Mparaiso\Rss\Loader\FileLoader;
+use Mparaiso\Rss\Loader\ILoader;
+use Mparaiso\Rss\Adapter\IItemAdapter;
 use Mparaiso\Rss\Builder\IBuilder;
 
 /**
-* @author M.Paraiso
+ * @author M.Paraiso
  * Generate a rss feed from an array of datas
  */
 class SimpleRss
@@ -16,19 +19,26 @@ class SimpleRss
      */
     protected $channel;
     /**
-     * @var IBuilder
+     * @var Mparaiso\Rss\Builder\IBuilder
      */
     protected $builder;
-
+    /**
+     * @var Mparaiso\Rss\Loader\ILoader
+     */
+    protected $loader;
     protected $itemAdapter;
 
-    function __construct(array $channel, IBuilder $builder = NULL)
+    function __construct(array $channel, IBuilder $builder = NULL, ILoader $loader = NULL)
     {
         if ($builder == NULL):
-            $builder = new TwigBuilder();
+            $builder = new RssTwigBuilder();
         endif;
-        $this->setChannel($channel);
-        $this->setBuilder($builder);
+        if ($loader == NULL):
+            $loader = new FileLoader;
+        endif;
+        $this->channel = $channel;
+        $this->builder = $builder;
+        $this->loader  = $loader;
     }
 
     public function getChannel()
@@ -53,15 +63,25 @@ class SimpleRss
 
     function generate()
     {
-        $items=array();
         if (isset($this->itemAdapter)) {
-            foreach ($this->channel["items"] as $item) {
-                $items[] = $this->itemAdapter->toItem($item);
-            }
-        }else{
-            $items = $this->channel["items"];
+            $channel = $this->itemAdapter->toChannel($this->channel);
+        } else {
+            $channel = $this->channel;
         }
-        return $this->builder->build($this->channel,$items);
+        return $this->builder->build($channel);
+    }
+
+    /**
+     * @TODO fix it
+     * @param null $file
+     * @return string
+     */
+    function fetch($file = NULL)
+    {
+        if (!$file == NULL) {
+            $this->loader->setFile($file);
+        }
+        return $this->loader->load();
     }
 
     public function getItemAdapter()
@@ -72,6 +92,16 @@ class SimpleRss
     public function setItemAdapter(IItemAdapter $itemAdapter)
     {
         $this->itemAdapter = $itemAdapter;
+    }
+
+    public function getLoader()
+    {
+        return $this->loader;
+    }
+
+    public function setLoader($loader)
+    {
+        $this->loader = $loader;
     }
 
 

@@ -103,6 +103,7 @@ class SimpleRssTest extends \PHPUnit_Framework_TestCase
         $result = $this->object->generate();
         $this->assertNotNull($result);
         $dom = new DOMDocument();
+//        print_r($result);
         $loaded = $dom->loadXML($result);
         $this->assertTrue($loaded);
         $root = $dom->firstChild->nodeName;
