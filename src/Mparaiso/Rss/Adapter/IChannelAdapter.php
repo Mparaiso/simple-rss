@@ -2,7 +2,7 @@
 
 namespace Mparaiso\Rss\Adapter;
 
-interface IItemAdapter{
+interface IChannelAdapter{
     /**
      * convert a model to an associative array
      * @param $data

@@ -5,7 +5,7 @@ namespace Mparaiso\Rss;
 use Mparaiso\Rss\Builder\RssTwigBuilder;
 use Mparaiso\Rss\Loader\FileLoader;
 use Mparaiso\Rss\Loader\ILoader;
-use Mparaiso\Rss\Adapter\IItemAdapter;
+use Mparaiso\Rss\Adapter\IChannelAdapter;
 use Mparaiso\Rss\Builder\IBuilder;
 
 /**
@@ -26,7 +26,7 @@ class SimpleRss
      * @var Mparaiso\Rss\Loader\ILoader
      */
     protected $loader;
-    protected $itemAdapter;
+    protected $channelAdapter;
 
     function __construct(array $channel, IBuilder $builder = NULL, ILoader $loader = NULL)
     {
@@ -63,8 +63,8 @@ class SimpleRss
 
     function generate()
     {
-        if (isset($this->itemAdapter)) {
-            $channel = $this->itemAdapter->toChannel($this->channel);
+        if (isset($this->channelAdapter)) {
+            $channel = $this->channelAdapter->toChannel($this->channel);
         } else {
             $channel = $this->channel;
         }
@@ -84,14 +84,14 @@ class SimpleRss
         return $this->loader->load();
     }
 
-    public function getItemAdapter()
+    public function getChannelAdapter()
     {
-        return $this->itemAdapter;
+        return $this->channelAdapter;
     }
 
-    public function setItemAdapter(IItemAdapter $itemAdapter)
+    public function setItemAdapter(IChannelAdapter $channelAdapter)
     {
-        $this->itemAdapter = $itemAdapter;
+        $this->channelAdapter = $channelAdapter;
     }
 
     public function getLoader()

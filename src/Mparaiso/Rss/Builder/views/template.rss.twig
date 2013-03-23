@@ -20,7 +20,8 @@
             <item>
                 <title>{{ item.title }}</title>
                 <description>{{ item.description }}</description>
-                <guid isPermaLink='{{ item.isPermalink|default("false") }}'>{{ item.guid }}</guid>
+                <guid isPermaLink='{{ item.isPermalink|default("false") }}'>{{ item.link }}</guid>
+                <link>{{ item.link }}</guid>
                 <pubDate>{{ item.pubDate|date("D, d M Y H:i:s T") }}</pubDate>
             </item>
         {% endfor %}
