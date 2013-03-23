@@ -1,4 +1,4 @@
 vendor/*
-scr/Mparaiso/Rss/Builder/cache/*
+src/Mparaiso/Rss/Builder/cache/*
 temp/*
 composer.lock
